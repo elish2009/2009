@@ -75,7 +75,7 @@ h1 {
     display: flex;
     border-radius: 0.625rem;
     align-self: stretch;
-    color: var(--cor-destaque);Add commentMore actions
+    color: var(--cor-destaque);
     font-size: 2.5rem;
     justify-content: center;
     margin-bottom: 2rem;
@@ -83,69 +83,3 @@ h1 {
     max-height: 50vh;
     overflow: auto;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
